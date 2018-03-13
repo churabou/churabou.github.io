@@ -187,7 +187,7 @@ body {
 #content2 article section:first-child	 {
   margin-right: 10px;
 }
-s
+
 #content2 article section:last-child	 {
   margin-left: 10px;
 }
@@ -200,4 +200,10 @@ s
   width: 100%;
   height: 300px;
   background-color: gainsboro;
+}
+
+#footer p {
+  color: white;
+  text-align: center;
+  font-size: 30px;
 }
